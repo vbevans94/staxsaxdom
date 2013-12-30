@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gems>
+    <gem id="4">
+        <name>Ruby</name>
+        <preciousness>Precious</preciousness>
+        <origin>Germany</origin>
+        <visual-params>
+            <color>red</color>
+            <transparency>80%</transparency>
+            <corners>4</corners>
+        </visual-params>
+        <value>1000</value>
+    </gem>
+    <gem id="2">
+        <name>Tanzanite</name>
+        <preciousness>HalfPrecious</preciousness>
+        <origin>Pacific Ocean</origin>
+        <visual-params>
+            <color>blue</color>
+            <transparency>770%</transparency>
+            <corners>14</corners>
+        </visual-params>
+        <value>10000</value>
+    </gem>
+</gems>
